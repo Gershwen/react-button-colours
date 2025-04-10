@@ -1,3 +1,3 @@
-const colors: string[] = ['red', 'green', 'blue', 'orange', 'purple'];
+const colours: string[] = ['red', 'green', 'blue', 'orange', 'purple'];
 
-export default colors;
+export default colours;
